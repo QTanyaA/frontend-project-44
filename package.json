@@ -23,5 +23,6 @@
   "dependencies": {
     "chmod": "^0.2.1",
     "make": "^0.0.0"
-  }
+  },
+  "devDependencies": {}
 }
