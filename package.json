@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "chmod": "^0.2.1",
-    "make": "^0.0.0"
-  },
-  "devDependencies": {}
+    "make": "^0.0.0",
+    "readline-sync": "^1.4.10"
+  }
 }
